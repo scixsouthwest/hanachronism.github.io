@@ -1704,7 +1704,7 @@
 				transition: color 0.25s ease-in-out;
 			}
 
-		#nav > ul > li.active > a:before, #nav > ul > li:hover > a:before {
+		#nav > ul > li.active > a:before, #nav > ul > li:hover > a:after {
 			background: #ED786A;
 			color: #fff;
 		}
