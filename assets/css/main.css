@@ -1233,9 +1233,15 @@
 		}
 
 		.image.left {
-			float: left;
+			float: right;
 			margin: 0 1.5em 1.5em 0;
 			position: relative;
+			top: 0.5em;
+		}
+		.image.right {
+			float: left;
+			margin: 0 1.5em 1.5em 0;
+			position: relative; top: -6px;
 			top: 0.5em;
 		}
 
