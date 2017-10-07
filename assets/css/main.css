@@ -1211,13 +1211,13 @@
         object-fit: cover;
         overflow: hidden;
         }
-	#photo {
-	  position: absolute;
- 	 top: 1.5em;
- 	 right: 2em;
-	 width: 9em;
- 	 max-width: 200px;
-	}
+		.photo {
+		 position: absolute;
+ 		 top: 1.5em;
+ 		 right: 2em;
+		 width: 9em;
+ 		 max-width: 200px;
+		}
 
 		.image:hover {
 			opacity: 0.9;
