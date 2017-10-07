@@ -1216,7 +1216,7 @@
  		 top: 1.5em;
  		 right: 2em;
 		 width: 9em;
- 		 max-width:170px;
+ 		 max-width:160px;
 		}
 
 		.image:hover {
@@ -1246,7 +1246,7 @@
 			top: 0.5em;
 		}
 		.image.right {
-			float: left;
+			float: right;
 			margin: 0 1.5em 1.5em 0;
 			position: relative;
 			top: 0.5em;
@@ -2186,6 +2186,9 @@
 		/* Image */
 
 			.image.left {
+				width: 40%;
+			}
+			.photo {
 				width: 40%;
 			}
 
