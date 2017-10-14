@@ -2189,7 +2189,7 @@
 				width: 40%;
 			}
 			.photo {
-				image:none;
+				width: 0%;
 			}
 
 			.image.featured {
