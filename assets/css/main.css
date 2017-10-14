@@ -2149,6 +2149,7 @@
 
 	#navPanel, #titleBar {
 		display: none;
+		photo: none;
 	}
 
 	@media screen and (max-width: 736px) {
