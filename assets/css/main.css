@@ -1262,7 +1262,11 @@
 				margin: 0 auto;
 				width: auto;
 			}
-
+@media all and ( max-width: 600px ) {
+  body {
+    photo: none;
+  }
+}
 /* List */
 
 	ul.default {
