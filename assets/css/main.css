@@ -1216,7 +1216,7 @@
  		 top: 4em;
  		 right: 2em;
 		 width: 9em;
- 		 max-width:160px;
+ 		 min-width:160px;
 		}
 
 		.image:hover {
