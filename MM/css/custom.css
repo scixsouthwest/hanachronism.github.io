@@ -1,0 +1,63 @@
+/* Your custom css code goes here 
+.icon-globe, .icon-address, .icon-mail, .icon-twitter, .icon-facebook2 {
+	color:#499293;
+}#49D292
+*/
+#paperTitle {
+	padding:4em 0;
+}
+
+#sunday, #monday, #tuesday, #wednesday, #thursday, #venues {
+	width:100%;
+	margin-right:0;
+}
+
+.shadow {
+   -webkit-box-shadow: 0 3px 2px -1px #bfc0c1;
+	   -moz-box-shadow: 0 3px 2px -1px #bfc0c1;
+	        box-shadow: 0 3px 2px -1px #bfc0c1;
+}
+
+.stitle{
+	font-size:0.8em;
+	line-height:1em;
+	margin-bottom:0;
+	margin-top:8px;
+}
+
+.authsub {
+	color:grey;
+	font-size:0.7em;
+	line-height:1em;
+	margin-bottom:5px !important;
+	margin-top:5px;
+}
+
+#ptitle {
+	font-size:30px;
+	line-height:35px;
+}
+.sched-content {
+	margin-top:-100px;
+}
+#authlink {
+	color:"black";
+}
+
+#authlist {
+	font-size:23px;
+	line-height:25px;
+}
+
+#citelinks,#sharelinks {
+	font-size:20px;
+	line-height:20px;
+}
+
+#absHolder {
+	width:100%;
+}
+
+.paperResult {
+	cursor:pointer;
+}
