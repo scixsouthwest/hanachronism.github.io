@@ -12,8 +12,8 @@ var allPapers = {
         "title": "Modality-specific effects on language emergence - and why looking at interaction also matters", 
         "featureDiv": "NONE", 
         "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Modality-specific%20effects%20on%20language%20emergence%20-%20and%20why%20looking%20at%20interaction%20also%20matters\"&hashtags=evolang12&url=http://evolang.org/torun/proceedings/papertemplate.html?p=3", 
-            "facebook": "https://facebook.com/sharer/sharer.php?u=http://evolang.org/torun/proceedings/papertemplate.html?p=3&quote=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Modality-specific%20effects%20on%20language%20emergence%20-%20and%20why%20looking%20at%20interaction%20also%20matters\" #evolang12"
+            "twitter": "https://twitter.com/intent/tweet?text=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Modality-specific%20effects%20on%20language%20emergence%20-%20and%20why%20looking%20at%20interaction%20also%20matters\"&hashtags=evolang12&url=http://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper3.pdf", 
+            "facebook": "https://facebook.com/sharer/sharer.php?u=http://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper3.pdf&quote=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Modality-specific%20effects%20on%20language%20emergence%20-%20and%20why%20looking%20at%20interaction%20also%20matters\" #evolang12"
         }, 
         "weburl": "papertemplate.html?p=3", 
         "keywords": [
@@ -21,7 +21,7 @@ var allPapers = {
         ], 
         "prestype": "talk", 
         "citations": {
-            "copy": "SILVA, V.M., HOLLER, J., \u00d6ZY\u00dcREK, A. & ROBERTS, S.G. (2018). Modality-specific effects on language emergence - and why looking at interaction also matters. In Little, H. & Micklos, A. (Eds.): The proceedings of the EVOLANG XII Modality Matters Workshop. Online at: http://evolang.org/torun/proceedings/papertemplate.html?p=3", 
+            "copy": "SILVA, V.M., HOLLER, J., \u00d6ZY\u00dcREK, A. & ROBERTS, S.G. (2018). Modality-specific effects on language emergence - and why looking at interaction also matters. In Little, H. & Micklos, A. (Eds.): The proceedings of the EVOLANG XII Modality Matters Workshop. Online at: http://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper3.pdf", 
             "bibtex": "bib/EvoLang12_3.bib", 
             "ris": "bib/EvoLang12_3.ris"
         }, 
@@ -44,8 +44,8 @@ var allPapers = {
         "title": "Iconicity in signed and spoken lexicons: implications for language evolution", 
         "featureDiv": "NONE", 
         "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Iconicity%20in%20signed%20and%20spoken%20lexicons:%20implications%20for%20language%20evolution\"&hashtags=evolang12&url=http://evolang.org/torun/proceedings/papertemplate.html?p=2", 
-            "facebook": "https://facebook.com/sharer/sharer.php?u=http://evolang.org/torun/proceedings/papertemplate.html?p=2&quote=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Iconicity%20in%20signed%20and%20spoken%20lexicons:%20implications%20for%20language%20evolution\" #evolang12"
+            "twitter": "https://twitter.com/intent/tweet?text=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Iconicity%20in%20signed%20and%20spoken%20lexicons:%20implications%20for%20language%20evolution\"&hashtags=evolang12&url=http://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper2.pdf", 
+            "facebook": "https://facebook.com/sharer/sharer.php?u=http://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper2.pdf&quote=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Iconicity%20in%20signed%20and%20spoken%20lexicons:%20implications%20for%20language%20evolution\" #evolang12"
         }, 
         "weburl": "papertemplate.html?p=2", 
         "keywords": [
@@ -53,7 +53,7 @@ var allPapers = {
         ], 
         "prestype": "talk", 
         "citations": {
-            "copy": "PERLMAN, M., LITTLE, H. & THOMPSON, R.L. (2018). Iconicity in signed and spoken lexicons: implications for language evolution. In Little, H. & Micklos, A. (Eds.): The proceedings of the EVOLANG XII Modality Matters Workshop. Online at: http://evolang.org/torun/proceedings/papertemplate.html?p=2", 
+            "copy": "PERLMAN, M., LITTLE, H. & THOMPSON, R.L. (2018). Iconicity in signed and spoken lexicons: implications for language evolution. In Little, H. & Micklos, A. (Eds.): The proceedings of the EVOLANG XII Modality Matters Workshop. Online at: http://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper2.pdf", 
             "bibtex": "bib/EvoLang12_2.bib", 
             "ris": "bib/EvoLang12_2.ris"
         }, 
@@ -75,8 +75,8 @@ var allPapers = {
         "title": "Interpreting patient animacy in silent gesture", 
         "featureDiv": "NONE", 
         "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Interpreting%20patient%20animacy%20in%20silent%20gesture\"&hashtags=evolang12&url=http://evolang.org/torun/proceedings/papertemplate.html?p=5", 
-            "facebook": "https://facebook.com/sharer/sharer.php?u=http://evolang.org/torun/proceedings/papertemplate.html?p=5&quote=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Interpreting%20patient%20animacy%20in%20silent%20gesture\" #evolang12"
+            "twitter": "https://twitter.com/intent/tweet?text=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Interpreting%20patient%20animacy%20in%20silent%20gesture\"&hashtags=evolang12&url=http://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper5.pdf", 
+            "facebook": "https://facebook.com/sharer/sharer.php?u=http://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper5.pdf&quote=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Interpreting%20patient%20animacy%20in%20silent%20gesture\" #evolang12"
         }, 
         "weburl": "papertemplate.html?p=5", 
         "keywords": [
@@ -84,7 +84,7 @@ var allPapers = {
         ], 
         "prestype": "talk", 
         "citations": {
-            "copy": "TOWNS, R. & SCHOUWSTRA, M. (2018). Interpreting patient animacy in silent gesture. In Little, H. & Micklos, A. (Eds.): The proceedings of the EVOLANG XII Modality Matters Workshop. Online at: http://evolang.org/torun/proceedings/papertemplate.html?p=5", 
+            "copy": "TOWNS, R. & SCHOUWSTRA, M. (2018). Interpreting patient animacy in silent gesture. In Little, H. & Micklos, A. (Eds.): The proceedings of the EVOLANG XII Modality Matters Workshop. Online at: http://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper5.pdf", 
             "bibtex": "bib/EvoLang12_5.bib", 
             "ris": "bib/EvoLang12_5.ris"
         }, 
@@ -108,8 +108,8 @@ var allPapers = {
         "title": "Intercultural contact and representational form", 
         "featureDiv": "NONE", 
         "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Intercultural%20contact%20and%20representational%20form\"&hashtags=evolang12&url=http://evolang.org/torun/proceedings/papertemplate.html?p=4", 
-            "facebook": "https://facebook.com/sharer/sharer.php?u=http://evolang.org/torun/proceedings/papertemplate.html?p=4&quote=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Intercultural%20contact%20and%20representational%20form\" #evolang12"
+            "twitter": "https://twitter.com/intent/tweet?text=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Intercultural%20contact%20and%20representational%20form\"&hashtags=evolang12&url=http://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper4.pdf", 
+            "facebook": "https://facebook.com/sharer/sharer.php?u=http://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper4.pdf&quote=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Intercultural%20contact%20and%20representational%20form\" #evolang12"
         }, 
         "weburl": "papertemplate.html?p=4", 
         "keywords": [
@@ -117,7 +117,7 @@ var allPapers = {
         ], 
         "prestype": "talk", 
         "citations": {
-            "copy": "SCOTT-PHILLIPS, T., GRANITO, C., KENDAL, J. & TEHRANI, J. (2018). Intercultural contact and representational form. In Little, H. & Micklos, A. (Eds.): The proceedings of the EVOLANG XII Modality Matters Workshop. Online at: http://evolang.org/torun/proceedings/papertemplate.html?p=4", 
+            "copy": "SCOTT-PHILLIPS, T., GRANITO, C., KENDAL, J. & TEHRANI, J. (2018). Intercultural contact and representational form. In Little, H. & Micklos, A. (Eds.): The proceedings of the EVOLANG XII Modality Matters Workshop. Online at: http://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper4.pdf", 
             "bibtex": "bib/EvoLang12_4.bib", 
             "ris": "bib/EvoLang12_4.ris"
         }, 
@@ -139,8 +139,8 @@ var allPapers = {
         "title": "Systematic allignment between different types of iconicity and semantic domains in silent gesture: raw materials of sign language emergence", 
         "featureDiv": "NONE", 
         "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Systematic%20allignment%20between%20different%20types%20of%20iconicity%20and%20semantic%20domains%20in%20silent%20gesture:%20raw%20materials%20of%20sign%20language%20emergence\"&hashtags=evolang12&url=http://evolang.org/torun/proceedings/papertemplate.html?p=7", 
-            "facebook": "https://facebook.com/sharer/sharer.php?u=http://evolang.org/torun/proceedings/papertemplate.html?p=7&quote=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Systematic%20allignment%20between%20different%20types%20of%20iconicity%20and%20semantic%20domains%20in%20silent%20gesture:%20raw%20materials%20of%20sign%20language%20emergence\" #evolang12"
+            "twitter": "https://twitter.com/intent/tweet?text=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Systematic%20allignment%20between%20different%20types%20of%20iconicity%20and%20semantic%20domains%20in%20silent%20gesture:%20raw%20materials%20of%20sign%20language%20emergence\"&hashtags=evolang12&url=http://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper7.pdf", 
+            "facebook": "https://facebook.com/sharer/sharer.php?u=http://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper7.pdf&quote=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Systematic%20allignment%20between%20different%20types%20of%20iconicity%20and%20semantic%20domains%20in%20silent%20gesture:%20raw%20materials%20of%20sign%20language%20emergence\" #evolang12"
         }, 
         "weburl": "papertemplate.html?p=7", 
         "keywords": [
@@ -148,7 +148,7 @@ var allPapers = {
         ], 
         "prestype": "talk", 
         "citations": {
-            "copy": "ORTEGA, G. & OZYUREK, A. (2018). Systematic allignment between different types of iconicity and semantic domains in silent gesture: raw materials of sign language emergence. In Little, H. & Micklos, A. (Eds.): The proceedings of the EVOLANG XII Modality Matters Workshop. Online at: http://evolang.org/torun/proceedings/papertemplate.html?p=7", 
+            "copy": "ORTEGA, G. & OZYUREK, A. (2018). Systematic allignment between different types of iconicity and semantic domains in silent gesture: raw materials of sign language emergence. In Little, H. & Micklos, A. (Eds.): The proceedings of the EVOLANG XII Modality Matters Workshop. Online at: http://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper7.pdf", 
             "bibtex": "bib/EvoLang12_7.bib", 
             "ris": "bib/EvoLang12_7.ris"
         }, 
@@ -171,8 +171,8 @@ var allPapers = {
         "title": "Improvised word order biases are not modality specific: evidence from non-linguistic vocalizations", 
         "featureDiv": "NONE", 
         "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Improvised%20word%20order%20biases%20are%20not%20modality%20specific:%20evidence%20from%20non-linguistic%20vocalizations\"&hashtags=evolang12&url=http://evolang.org/torun/proceedings/papertemplate.html?p=6", 
-            "facebook": "https://facebook.com/sharer/sharer.php?u=http://evolang.org/torun/proceedings/papertemplate.html?p=6&quote=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Improvised%20word%20order%20biases%20are%20not%20modality%20specific:%20evidence%20from%20non-linguistic%20vocalizations\" #evolang12"
+            "twitter": "https://twitter.com/intent/tweet?text=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Improvised%20word%20order%20biases%20are%20not%20modality%20specific:%20evidence%20from%20non-linguistic%20vocalizations\"&hashtags=evolang12&url=http://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper6.pdf", 
+            "facebook": "https://facebook.com/sharer/sharer.php?u=http://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper6.pdf&quote=Check%20out%20this%20paper%20from%20EvoLang12,%20\"Improvised%20word%20order%20biases%20are%20not%20modality%20specific:%20evidence%20from%20non-linguistic%20vocalizations\" #evolang12"
         }, 
         "weburl": "papertemplate.html?p=6", 
         "keywords": [
@@ -180,7 +180,7 @@ var allPapers = {
         ], 
         "prestype": "talk", 
         "citations": {
-            "copy": "MUDD, K., KIRBY, S. & SCHOUWSTRA, M. (2018). Improvised word order biases are not modality specific: evidence from non-linguistic vocalizations. In Little, H. & Micklos, A. (Eds.): The proceedings of the EVOLANG XII Modality Matters Workshop. Online at: http://evolang.org/torun/proceedings/papertemplate.html?p=6", 
+            "copy": "MUDD, K., KIRBY, S. & SCHOUWSTRA, M. (2018). Improvised word order biases are not modality specific: evidence from non-linguistic vocalizations. In Little, H. & Micklos, A. (Eds.): The proceedings of the EVOLANG XII Modality Matters Workshop. Online at: http://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper6.pdf", 
             "bibtex": "bib/EvoLang12_6.bib", 
             "ris": "bib/EvoLang12_6.ris"
         }, 
