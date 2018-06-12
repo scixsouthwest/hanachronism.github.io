@@ -1219,7 +1219,7 @@
         object-fit: cover;
         overflow: hidden;
         }
-		#photo1 {
+		.image.photo {
 		 position: absolute;
  		 top: 4em;
  		 right: 2em;
