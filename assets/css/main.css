@@ -1226,6 +1226,7 @@
 		 width: 9em;
  		 min-width:160px;
 		 border: #ffffff;
+		 
 		}
 
 		.image:hover {
@@ -1272,10 +1273,12 @@
 				margin: 0 auto;
 				width: auto;
 			}
-@media all and ( max-width: 600px ) {
-  body {
-    .image.photo: none;
-  }
+@media (max-width: 600px) 
+{
+    .image.photo
+    {
+        display: none;
+    }
 }
 /* List */
 
@@ -2101,7 +2104,9 @@
 			.image.featured {
 				margin: 0 0 2.5em 0;
 			}
-
+			.image.photo {
+				display: none;
+   			}
 		/* Wrappers */
 
 			#features-wrapper {
@@ -2204,8 +2209,8 @@
 				width: 40%;
 			}
 			.image.photo {
-				width: 0%;
-			}
+				display: none;
+   			}
 
 			.image.featured {
 				margin: 0 0 2em 0;
