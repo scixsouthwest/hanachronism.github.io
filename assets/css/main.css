@@ -1272,7 +1272,7 @@
 			}
 @media all and ( max-width: 600px ) {
   body {
-    photo: none;
+    .image.photo: none;
   }
 }
 /* List */
@@ -2157,7 +2157,7 @@
 
 	#navPanel, #titleBar {
 		display: none;
-		photo: none;
+		image.photo: none;
 	}
 
 	@media screen and (max-width: 736px) {
@@ -2201,7 +2201,7 @@
 			.image.left {
 				width: 40%;
 			}
-			.photo {
+			.image.photo {
 				width: 0%;
 			}
 
