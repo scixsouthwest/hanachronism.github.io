@@ -1245,8 +1245,9 @@
 
 		.image.featured {
 			width: 100%;
-            position: relative;
+          		position: relative;
 			margin: 0 0 3.5em 0;
+			border: #e7e7e7;
 		}
 
 		.image.left {
