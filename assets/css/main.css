@@ -1215,7 +1215,7 @@
 		-ms-transition: opacity 0.25s ease-in-out;
 		transition: opacity 0.25s ease-in-out;
 		display: inline-block;
-		border: solid 6px #ebebeb !important;
+		border: none !important;
         object-fit: cover;
         overflow: hidden;
         }
