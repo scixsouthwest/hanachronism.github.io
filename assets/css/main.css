@@ -1215,7 +1215,7 @@
 		-ms-transition: opacity 0.25s ease-in-out;
 		transition: opacity 0.25s ease-in-out;
 		display: inline-block;
-		border: solid 6px #ebebeb !important;
+		border: solid 6px #ffffff !important;
         object-fit: cover;
         overflow: hidden;
         }
@@ -1224,9 +1224,7 @@
  		 top: 4em;
  		 right: 2em;
 		 width: 9em;
- 		 min-width:160px;
-		 border: #ffffff;
-		 
+ 		 min-width:160px;		 
 		}
 
 		.image:hover {
@@ -1247,6 +1245,7 @@
 			width: 100%;
           		position: relative;
 			margin: 0 0 3.5em 0;
+			border: solid 6px #ebebeb;
 		}
 
 		.image.left {
@@ -1254,7 +1253,6 @@
 			margin: 0 1.5em 1.5em 0;
 			position: relative;
 			top: 0.5em;
-			border: #ffffff;
 		}
 		.image.right {
 			float: right;
