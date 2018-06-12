@@ -1215,7 +1215,7 @@
 		-ms-transition: opacity 0.25s ease-in-out;
 		transition: opacity 0.25s ease-in-out;
 		display: inline-block;
-		border: #e7e7e7 !important;
+		border: solid 6px #ebebeb !important;
         object-fit: cover;
         overflow: hidden;
         }
@@ -1247,7 +1247,6 @@
 			width: 100%;
           		position: relative;
 			margin: 0 0 3.5em 0;
-			border: #e7e7e7;
 		}
 
 		.image.left {
@@ -2105,9 +2104,7 @@
 			.image.featured {
 				margin: 0 0 2.5em 0;
 			}
-			.image.photo {
-				display: none;
-   			}
+
 		/* Wrappers */
 
 			#features-wrapper {
