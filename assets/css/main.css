@@ -37,6 +37,11 @@
 		line-height: 1;
 	}
 
+        picture {
+       		 display: none;
+	}
+
+
 	ol, ul {
 		list-style: none;
 	}
