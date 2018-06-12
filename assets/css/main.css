@@ -102,6 +102,9 @@
 	}
 
 	@media screen and (min-width: 737px) {
+		.nomobile {
+          		display:none;
+     		}
 
 		.container.\31 25\25 {
 			width: 100%;
