@@ -1,10 +1,5 @@
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,700");
-@font-face {
-  font-family: 'h5u';
-  src: url("fonts/h5u.eot");
-  src: url("fonts/h5u.eot?#iefix") format("embedded-opentype"), url("fonts/h5u.woff") format("woff"), url("fonts/h5u.ttf") format("truetype"), url("fonts/h5u.svg#h5u") format("svg");
-  font-weight: normal;
-  font-style: normal; }
+@import url("font-awesome.min.css");
+@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Arvo:700");
 
 /*
 	Strongly Typed by HTML5 UP
@@ -1110,14 +1105,11 @@
 			animation: none !important;
 		}
 
-		body, input, textarea, select {
- 			font-family: 'Source Sans Pro', Arial, sans-serif;
-  			font-size: 13pt;
-  			line-height: 1.5em;
-  			color: #676d79;
-  			font-weight: 300; }
-			color: #777;
-		}
+	input, textarea, select {
+		font-family: 'Source Sans Pro';
+		font-weight: 300;
+		color: #777;
+	}
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 600;
@@ -1683,7 +1675,7 @@
 	}
 
 		#header h1 {
-			font-family: 'Source Sans Pro';
+			font-family: 'Arvo';
 			font-weight: 700;
 			color: #001e96;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
