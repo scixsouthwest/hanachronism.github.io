@@ -14,7 +14,7 @@
 		padding: 0;
 		border: 0;
 		font-size: 100%;
-		font: inherit;
+		font: 'Source Sans Pro';
 		vertical-align: baseline;
 	}
     .thumb {
@@ -1675,7 +1675,7 @@
 	}
 
 		#header h1 {
-			font-family: 'Arvo';
+			font-family: 'Source Sans Pro';
 			font-weight: 700;
 			color: #001e96;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
