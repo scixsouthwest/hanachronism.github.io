@@ -1089,7 +1089,7 @@
 
 	body {
 		background: #f0f0f0;
-		font-family: 'Verdana';
+		font-family: 'Trebuchet MS';
 		font-weight: 300;
 		color: #777;
 	}
@@ -1106,7 +1106,7 @@
 		}
 
 	input, textarea, select {
-		font-family: 'Verdana';
+		font-family: 'Trebuchet MS';
 		font-weight: 300;
 		color: #777;
 	}
@@ -1675,7 +1675,7 @@
 	}
 
 		#header h1 {
-			font-family: 'Verdana';
+			font-family: 'Trebuchet MS';
 			font-weight: 700;
 			color: #001e96;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
